@@ -1,13 +1,13 @@
 ---
 title: "Statistics 333 Project 02"
-author: "James Thomason, Akshath Rajaram"
+author: "James Thomason, Xiaosheng Liu"
 date: "12/05/2019"
 output: pdf_document
 header-includes:
 - \usepackage{fancyhdr}
 - \pagestyle{fancy}
 - \fancyhf{}
-- \rhead{Thomason}
+- \rhead{Thomason, Liu}
 - \lhead{STAT 333 PRJ 02}
 - \cfoot{\thepage}
 ---
